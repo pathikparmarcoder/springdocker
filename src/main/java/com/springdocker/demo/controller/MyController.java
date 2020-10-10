@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Added controller
+ * Added controller -- fixed the bug
  */
 @RestController
 @RequestMapping("/app")
